@@ -1,0 +1,2 @@
+# sql-tricks
+SQL tricks
