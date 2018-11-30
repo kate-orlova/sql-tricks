@@ -1,0 +1,1 @@
+exec sp_MSforeachdb @command1="Use [?] EXEC sp_change_users_login 'Auto_Fix', 'YourUserName'"
