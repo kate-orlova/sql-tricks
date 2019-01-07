@@ -3,6 +3,8 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
 * update statistics
 * rebuild indexes
 * autofix a DB user
+* disable / enable table triggers
+* disable / enable DB integrity check
 
 # Contribution
 Hope you found these scripts helpful, your contributions and suggestions will be very much appreciated. Please submit a pull request.
