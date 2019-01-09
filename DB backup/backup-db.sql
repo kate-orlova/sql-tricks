@@ -1,0 +1,4 @@
+BACKUP DATABASE [Databasename]
+TO  DISK = N'D:\SQL-BACKUPS\Databasename.bak' WITH NOFORMAT, NOINIT, 
+NAME = N'Databasename-Full Database Backup', SKIP, NOREWIND, NOUNLOAD, COMPRESSION, STATS = 10
+GO
