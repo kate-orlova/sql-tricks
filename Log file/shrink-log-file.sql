@@ -1,0 +1,12 @@
+USE [master]
+GO
+ALTER DATABASE [dbname] SET RECOVERY SIMPLE WITH NO_WAIT
+GO
+USE [dbname]
+GO
+DBCC SHRINKFILE([log file logical name], 1)
+GO
+USE [master]
+GO
+ALTER DATABASE [dbname] SET RECOVERY FULL WITH NO_WAIT
+GO
