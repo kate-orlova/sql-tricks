@@ -7,6 +7,7 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
 * disable / enable table triggers
 * disable / enable DB integrity check
 * turn off / on identity check for auto incremental columns (it is required when a specific value needs to be inserted during data import as a record Id for example) 
+* create a DB backup, restore a DB from a backup
 
 
 # Contribution
