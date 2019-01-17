@@ -5,7 +5,9 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * turn off / on identity check for auto incremental columns (it is required when a specific value needs to be inserted during data import as a record Id for example) 
 * **DB backup**
    * create a DB backup, restore a DB from a backup
-* DB Id
+* **DB Id**
+   * retrieve a DB Id
+   * retrieve Id for all DBs at once
 * **DB Users**
    * autofix a DB user after a DB recovery
    * change a DB owner
