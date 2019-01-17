@@ -6,8 +6,9 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
 * **DB backup**
    * create a DB backup, restore a DB from a backup
 * DB Id
-* DB Users
-   * autofix a DB user
+* **DB Users**
+   * autofix a DB user after a DB recovery
+   * change a DB owner
 * **Indexes**
    * rebuild indexes
 * Log file
