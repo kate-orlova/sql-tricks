@@ -1,13 +1,24 @@
 # SQL tricks
-SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs should have at hand:
-* update statistics
-* review an execution plan
-* rebuild indexes
-* autofix a DB user
-* disable / enable table triggers
-* disable / enable DB integrity check
-* turn off / on identity check for auto incremental columns (it is required when a specific value needs to be inserted during data import as a record Id for example) 
-* create a DB backup, restore a DB from a backup
+SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs should have at hand. Scripts are grouped into folders based on specific functionality:
+* **Data integrity**
+   * disable / enable DB integrity check
+   * turn off / on identity check for auto incremental columns (it is required when a specific value needs to be inserted during data import as a record Id for example) 
+* **DB backup**
+   * create a DB backup, restore a DB from a backup
+* DB Id
+* DB Users
+   * autofix a DB user
+* **Indexes**
+   * rebuild indexes
+* Log file
+* Server resource utilization
+* Spatial data
+* **Statistics**
+   * review statistics
+   * update statistics
+   * review an execution plan
+* Triggers
+   * disable / enable table triggers
 
 
 # Contribution
