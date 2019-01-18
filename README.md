@@ -22,8 +22,8 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * review statistics
    * update statistics
    * review an execution plan
-* Triggers
-   * disable / enable table triggers
+* **Triggers**
+   * disable / enable all table triggers
 
 
 # Contribution
