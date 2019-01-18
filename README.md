@@ -16,7 +16,8 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
 * **Log file**
    * shrink a log file
 * Server resource utilization
-* Spatial data
+* **Spatial data**
+   * create a geography column in a table
 * **Statistics**
    * review statistics
    * update statistics
