@@ -13,6 +13,8 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * change a DB owner
 * **Indexes**
    * rebuild indexes
+* **Info**
+   * select a product version
 * **Log file**
    * shrink a log file
 * **Server resource utilization**
