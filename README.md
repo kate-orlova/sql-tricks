@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/kate-orlova/sql-tricks.svg)](https://github.com/kate-orlova/sql-tricks/blob/master/LICENSE)
+
+
 # SQL tricks
 SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs should have at hand. Scripts are grouped into folders based on specific functionality:
 * **Data integrity**
