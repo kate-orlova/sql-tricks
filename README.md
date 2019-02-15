@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/kate-orlova/sql-tricks.svg)](https://github.com/kate-orlova/sql-tricks/blob/master/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/kate-orlova/sql-tricks.svg?style=flat)
 
 
 # SQL tricks
