@@ -22,6 +22,8 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * rebuild indexes
 * **Info**
    * select a product version
+* **JSON**
+   * get a value of a JSON property into a local variable
 * **Log file**
    * shrink a log file
 * **Server resource utilization**
