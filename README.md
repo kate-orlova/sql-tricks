@@ -23,6 +23,7 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
 * **Info**
    * select a product version
 * **JSON**
+   * create a computed column based on a JSON property
    * get a value of a JSON property into a local variable
 * **Log file**
    * shrink a log file
