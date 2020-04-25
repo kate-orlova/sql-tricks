@@ -38,6 +38,8 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * review an execution plan
 * **Triggers**
    * disable / enable all table triggers
+* **Validation**
+   * check DB objects (stored procedures) for compatibility with DB schema
 
 
 # Contribution
