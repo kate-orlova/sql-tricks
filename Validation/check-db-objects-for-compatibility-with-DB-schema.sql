@@ -6,7 +6,7 @@ DECLARE objectCursor CURSOR FAST_FORWARD FOR
 SELECT QUOTENAME(SCHEMA_NAME(o.schema_id)) + '.' + QUOTENAME(OBJECT_NAME(o.object_id))
 FROM sys.objects o
 WHERE
-	type_desc IN ('SQL_STORED_PROCEDURE','VIEW','SQL_TRIGGER')
+	type_desc IN ('SQL_STORED_PROCEDURE','VIEW','SQL_TRIGGER','SQL_SCALAR_FUNCTION')
     AND ISNULL(OBJECTPROPERTY(o.object_id, 'IsSchemaBound'), 0) = 0
  
 OPEN objectCursor
