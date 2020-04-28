@@ -40,7 +40,7 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
 * **Triggers**
    * disable / enable all table triggers
 * **Validation**
-   * check DB objects (stored procedures, functions, tables, triggers) for compatibility with DB schema
+   * check DB objects (stored procedures, views, functions, tables, triggers) for compatibility with DB schema
 
 
 # Contribution
