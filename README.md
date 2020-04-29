@@ -1,3 +1,4 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/kate-orlova/sql-tricks)
 [![GitHub license](https://img.shields.io/github/license/kate-orlova/sql-tricks.svg)](https://github.com/kate-orlova/sql-tricks/blob/master/LICENSE)
 ![GitHub language count](https://img.shields.io/github/languages/count/kate-orlova/sql-tricks.svg?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/kate-orlova/sql-tricks.svg?style=flat)
