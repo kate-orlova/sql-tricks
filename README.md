@@ -21,7 +21,7 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * autofix a DB user after a DB recovery
    * change a DB owner
 * **Indexes**
-   * rebuild indexes
+   * rebuild indexes (including a system _sp_MSforeachtable_ procedure in case it is missing in Azure environment)
 * **Info**
    * select a product version
 * **JSON**
