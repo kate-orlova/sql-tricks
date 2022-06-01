@@ -24,6 +24,7 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * rebuild indexes (including a system _sp_MSforeachtable_ procedure in case it is missing in Azure environment)
 * **Info**
    * select a product version
+   * select all tables from a certain DB that contain a specific column name
 * **JSON**
    * create a computed column based on a JSON property
    * get a value of a JSON property into a local variable
