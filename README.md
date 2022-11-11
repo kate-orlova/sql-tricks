@@ -10,7 +10,8 @@
 # SQL tricks
 SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs should have at hand. Scripts are grouped into folders based on specific functionality:
 * **CRUD**
-   * INSERT INTO SELECT to copy all or specific columns from one table to another one;
+   * INSERT INTO SELECT to copy all or specific columns from one table to another one
+   * drop a database
 * **Data integrity**
    * disable / enable DB integrity check
    * turn off / on identity check for auto incremental columns (it is required when a specific value needs to be inserted during data import as a record Id for example) 
