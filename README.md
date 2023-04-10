@@ -43,6 +43,9 @@ SQL tricks are a set of useful SQL scripts everybody supporting MS SQL DBs shoul
    * review statistics
    * update statistics
    * review an execution plan
+* **Transactions**
+   * catch long-running or uncommitted transactions
+   * return information on open transactions
 * **Triggers**
    * disable / enable all table triggers
 * **Validation**
